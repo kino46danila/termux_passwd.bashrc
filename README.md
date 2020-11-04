@@ -7,5 +7,5 @@
 # На вход даётся 7 секунд, по истечению которого запускается cmatrix и стирается история ввода команд.
 #
 # Запуск :
-cd termux_passwd.bashrc
-bash install.sh
+# cd termux_passwd.bashrc
+# bash install.sh
